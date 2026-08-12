@@ -1,5 +1,5 @@
 # Use penultimate stable Debian version
-FROM debian:bookworm
+FROM debian:bullseye
 
 # Install PHP-FPM, PHP extensions, MariaDB client, and curl
 RUN apt-get update && apt-get install -y \

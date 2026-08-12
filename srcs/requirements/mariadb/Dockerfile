@@ -1,5 +1,5 @@
 # Use penultimate stable Debian version
-FROM debian:bookworm
+FROM debian:bullseye
 
 # Install MariaDB server
 RUN apt-get update && apt-get install -y \

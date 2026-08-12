@@ -1,5 +1,5 @@
 # Use penultimate stable Debian version
-FROM debian:bookworm
+FROM debian:bullseye
 
 # Install NGINX and OpenSSL
 RUN apt-get update && apt-get install -y \
