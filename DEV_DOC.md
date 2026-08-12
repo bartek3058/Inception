@@ -9,8 +9,8 @@
 - **Operating System:** Debian 11/12 or Alpine Linux
 - **Required Packages:** `docker.io`, `docker-compose-v2`, `make`
 - Required host directory structure:
-  `/home/yourlogin/data/wordpress`
-  `/home/yourlogin/data/mariadb`
+  `/home/brogalsk/data/wordpress`
+  `/home/brogalsk/data/mariadb`
 
 ## Build and Launch
 1. Clone the project repository.

@@ -9,8 +9,8 @@ This stack provides a fully functioning WordPress site served securely over HTTP
 
 ## Accessing the Website
 1. Ensure `127.0.0.1 brogalsk.42.fr` is added to your `/etc/hosts` file.
-2. Open your web browser and navigate to: `https://yourlogin.42.fr`.
-3. Access the WordPress Administration Panel at: `https://yourlogin.42.fr/wp-admin`
+2. Open your web browser and navigate to: `https://brogalsk.42.fr`.
+3. Access the WordPress Administration Panel at: `https://brogalsk.42.fr/wp-admin`
 
 ## Credentials Management
 Credentials are stored securely in local text files inside the `secrets/` directory:
